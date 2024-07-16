@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9d72adf-2178-490a-9e3d-b1bc4c2ea3f2" name="Changes" comment="change config" />
+    <list default="true" id="f9d72adf-2178-490a-9e3d-b1bc4c2ea3f2" name="Changes" comment="another commit image branch">
+      <change afterPath="$PROJECT_DIR$/test" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +42,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\new\240716gitlearn" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -56,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721101415083</updated>
-      <workItem from="1721101416228" duration="1697000" />
+      <workItem from="1721101416228" duration="1853000" />
     </task>
     <task id="LOCAL-00001" summary="firstcommitwithpycharm">
       <option name="closed" value="true" />
@@ -82,15 +89,35 @@
       <option name="project" value="LOCAL" />
       <updated>1721103109120</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="another commit image branch">
+      <option name="closed" value="true" />
+      <created>1721103762431</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721103762431</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="firstcommitwithpycharm" />
     <MESSAGE value="second commit pycharm" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit pycharm" />
+    <MESSAGE value="another commit image branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="another commit image branch" />
   </component>
 </project>
